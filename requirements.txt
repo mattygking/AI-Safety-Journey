@@ -37,3 +37,6 @@ numpy
 gradio
 streamlit
 fairlearn
+
+# Models
+openai
