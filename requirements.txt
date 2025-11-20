@@ -1,0 +1,39 @@
+# Core ML and NLP
+torch
+torchvision
+transformers
+datasets
+evaluate
+scikit-learn
+
+# Interpretability
+shap
+lime
+captum
+matplotlib
+seaborn
+plotly
+
+# Sustainability
+experiment-impact-tracker
+codecarbon
+psutil
+
+# Experiment tracking / visualization
+wandb
+mlflow
+
+# Evaluation
+inspect-ai
+
+# Productivity
+jupyter
+ipykernel
+tqdm
+pandas
+numpy
+
+# Optional but useful
+gradio
+streamlit
+fairlearn
