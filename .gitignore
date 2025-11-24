@@ -419,3 +419,6 @@ FodyWeavers.xsd
 
 # Virtual Environments
 venv/
+
+# Models
+InspectAI/Models/
