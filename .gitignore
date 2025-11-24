@@ -422,3 +422,6 @@ venv/
 
 # Models
 InspectAI/Models/
+
+Fastai/golfers/
+Fastai/Landscapes/
