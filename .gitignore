@@ -425,5 +425,7 @@ InspectAI/Models/
 
 Fastai/golfers/
 Fastai/Landscapes/
+Fastai/Models/
+Fastai/test_images/
 
 python_basics.py
