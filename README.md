@@ -14,6 +14,7 @@ This repo documents my personal journey transitioning into **AI Safety research*
 ## 🧱 Repository Structure
 AI-Safety-Journey/
 
+- *Fastai*: Experimentation with Fastai library
 - *InspectAI*: Experimentation with InspectAI library
 - *notebooks*: Jupyter notebooks (experiments, visualizations)
 - *scripts*: Reusable code and functions
